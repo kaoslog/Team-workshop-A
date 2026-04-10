@@ -1,2 +1,2 @@
 ## Features
-- [Pierluigi] Feature A: User List - Complete
+- [x] Feature A: User List - Complete Pierluigi
