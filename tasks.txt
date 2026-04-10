@@ -1,0 +1,13 @@
+	=== Task Board ===
+
+Task 1: Design the User Interface
+Status: Todo
+
+Task 2: Write the Documentation
+Status: In Progress
+
+Task 3: Auto-Testing
+Status: Dan
+
+Task 4: Release the First Version
+Status: Todo
