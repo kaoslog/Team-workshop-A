@@ -1,3 +1,5 @@
 09:30 - Created repository
 09:35 - Assigned files and branches
 09:40 - Working on assigned files
+11:45 - End phase 2
+11:55 - Initializin last Phase
