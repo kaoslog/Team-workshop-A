@@ -3,3 +3,5 @@
 - [x] Featur B: Task Board — completed by Priscilla
 - [x] Featur c: Task Board — completed by Yazen
 ## Changelog
+## Recent Updates
+- Added task priorities to tasks.txt

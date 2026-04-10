@@ -2,3 +2,4 @@ Team Lead Pierluigi  Pierluigi@gmail.com
 Developer A Priscilla Priscilla@gmail.com
 Developer B Yazen Yazen@gmail.com
 Developer C Pierluigi  Pierluigi@gmail.com
+Developer D bob@corp.com
